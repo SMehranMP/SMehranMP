@@ -8,7 +8,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0369A1&height=190&section=header&text=CODE%20%7C%20BUILD%20%7C%20GROW&fontSize=36&fontColor=ffffff&fontAlignY=40"/>
 
-# YOUR NAME
+Seyed Mehran Mousavi
 
 ### Software Developer | Programmer
 
