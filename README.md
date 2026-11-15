@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ===================================== -->
 <!-- GITHUB PROFILE README                 -->
 <!-- GitHub: SMehranMP                      -->
@@ -240,4 +240,3 @@ More projects coming soon!
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0F172A,100:020617&height=110&section=footer"/>
 
 </div>
-```
