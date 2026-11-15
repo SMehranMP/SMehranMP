@@ -14,7 +14,9 @@
 
 Turning ideas into reality, one commit at a time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github)](https://github.com/SMehranMP)
+<a href="https://github.com/SMehranMP">
+<img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -27,6 +29,32 @@ Turning ideas into reality, one commit at a time.
 - 🧠 Interested in algorithms and problem solving
 - 📚 Exploring programming languages
 - 🎯 Improving my skills every day
+- 🌱 Always open to learning and collaboration
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+I'm open to collaboration, freelance projects
+and new opportunities.
+
+<br/>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SMehranMP">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Feel free to contact me for projects and collaborations!**
+
+</div>
 
 ---
 
@@ -189,6 +217,7 @@ More projects coming soon!
 - [ ] Master SQL and databases
 - [ ] Learn Assembly deeply
 - [ ] Explore new programming languages
+- [ ] Build real-world software projects
 
 ---
 
