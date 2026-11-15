@@ -140,18 +140,36 @@ More projects coming soon!
 
 ---
 
+
 ## 🛠️ Languages & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,mysql,postgres&theme=dark"/>
+<!-- Programming Languages -->
+
+<img src="https://skillicons.dev/icons?i=c,java&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ada-5C4EE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
+<!-- Database Technologies -->
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+
+<br/><br/>
+
+<!-- Other Languages -->
+
+<img src="https://img.shields.io/badge/Ada-5C4EE5?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
 
 </div>
+
+---
 
 ---
 
