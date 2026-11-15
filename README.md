@@ -1,20 +1,20 @@
 
 <!-- ===================================== -->
 <!-- GITHUB PROFILE README                 -->
-<!-- Replace YOUR_USERNAME with your ID    -->
+<!-- GitHub: SMehranMP                      -->
 <!-- ===================================== -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0369A1&height=190&section=header&text=CODE%20%7C%20BUILD%20%7C%20GROW&fontSize=36&fontColor=ffffff&fontAlignY=40"/>
 
-Seyed Mehran Mousavi
+# Seyed Mehran Mousavi
 
 ### Software Developer | Programmer
 
 Turning ideas into reality, one commit at a time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github)](https://github.com/SMehranMP)
 
 </div>
 
@@ -50,7 +50,7 @@ Turning ideas into reality, one commit at a time.
 
 Algorithms & Systems
 
-[Explore →](https://github.com/YOUR_USERNAME/c-projects)
+[Explore →](https://github.com/SMehranMP/c-projects)
 
 </td>
 
@@ -58,13 +58,13 @@ Algorithms & Systems
 
 ### 🟣 Ada
 
-<img src="https://img.shields.io/badge/Ada-5C4EE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ada-5C4EE5?style=for-the-badge&logoColor=white"/>
 
 **Ada Projects**
 
 Software Engineering
 
-[Explore →](https://github.com/YOUR_USERNAME/ada-projects)
+[Explore →](https://github.com/SMehranMP/ada-projects)
 
 </td>
 
@@ -78,23 +78,24 @@ Software Engineering
 
 OOP & Applications
 
-[Explore →](https://github.com/YOUR_USERNAME/java-projects)
+[Explore →](https://github.com/SMehranMP/java-projects)
 
 </td>
 </tr>
 
 <tr>
+
 <td align="center" width="33%">
 
 ### 🟢 SQL
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
 
 **SQL Projects**
 
 Database & Queries
 
-[Explore →](https://github.com/YOUR_USERNAME/sql-projects)
+[Explore →](https://github.com/SMehranMP/sql-projects)
 
 </td>
 
@@ -102,13 +103,13 @@ Database & Queries
 
 ### 🟠 Assembly
 
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white"/>
 
 **Assembly Projects**
 
 Low-Level Programming
 
-[Explore →](https://github.com/YOUR_USERNAME/assembly-projects)
+[Explore →](https://github.com/SMehranMP/assembly-projects)
 
 </td>
 
@@ -123,6 +124,7 @@ Low-Level Programming
 More projects coming soon!
 
 </td>
+
 </tr>
 </table>
 
@@ -132,44 +134,38 @@ More projects coming soon!
 
 | Repository | Description |
 |:---|:---|
-| 🔵 [C Projects](https://github.com/YOUR_USERNAME/c-projects) | C programming |
-| 🟣 [Ada Projects](https://github.com/YOUR_USERNAME/ada-projects) | Ada programming |
-| ☕ [Java Projects](https://github.com/YOUR_USERNAME/java-projects) | Java applications |
-| 🟢 [SQL Projects](https://github.com/YOUR_USERNAME/sql-projects) | Database projects |
-| 🟠 [Assembly Projects](https://github.com/YOUR_USERNAME/assembly-projects) | Low-level programming |
+| 🔵 [C Projects](https://github.com/SMehranMP/c-projects) | C programming |
+| 🟣 [Ada Projects](https://github.com/SMehranMP/ada-projects) | Ada programming |
+| ☕ [Java Projects](https://github.com/SMehranMP/java-projects) | Java applications |
+| 🟢 [SQL Projects](https://github.com/SMehranMP/sql-projects) | Database projects |
+| 🟠 [Assembly Projects](https://github.com/SMehranMP/assembly-projects) | Low-level programming |
 
 ---
-
 
 ## 🛠️ Languages & Technologies
 
 <div align="center">
 
-<!-- Programming Languages -->
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,java&theme=dark"/>
 
 <br/><br/>
 
-<!-- Database Technologies -->
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
-
-<br/><br/>
-
-<!-- Other Languages -->
-
 <img src="https://img.shields.io/badge/Ada-5C4EE5?style=for-the-badge&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
 
-</div>
+<br/><br/>
 
----
+### Database Technologies
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+
+</div>
 
 ---
 
@@ -177,13 +173,9 @@ More projects coming soon!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SMehranMP&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMehranMP&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -205,6 +197,12 @@ More projects coming soon!
 ### 💙 THANKS FOR VISITING MY PROFILE!
 
 **KEEP CODING. KEEP LEARNING. KEEP GROWING.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-Passion-0EA5E9?style=for-the-badge"/>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0F172A,100:020617&height=110&section=footer"/>
 
